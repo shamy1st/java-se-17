@@ -21,3 +21,4 @@ Context-Specific Deserialization Filters       | JEP 415
 
 ## Ref
 * https://en.wikipedia.org/wiki/Java_version_history#Java_17
+* https://openjdk.java.net/projects/jdk/17/
