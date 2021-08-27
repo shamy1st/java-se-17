@@ -1,27 +1,27 @@
 # Java SE 17 (LTS)
 
-Feature                                        | #
------------------------------------------------|---------
-Sealed Classes                                 | JEP 409
-Restore Always-Strict Floating-Point Semantics | JEP 306
-Enhanced Pseudo-Random Number Generators       | JEP 356
-New macOS Rendering Pipeline                   | JEP 382
-macOS/AArch64 Port                             | JEP 391
-Strongly Encapsulate JDK Internals             | JEP 403
-Context-Specific Deserialization Filters       | JEP 415
+Feature                                        | Description
+-----------------------------------------------|-------------
+[Sealed Classes](https://github.com/shamy1st/java-sealed-class) | 
+Restore Always-Strict Floating-Point Semantics | 
+Enhanced Pseudo-Random Number Generators       | 
+New macOS Rendering Pipeline                   | 
+macOS/AArch64 Port                             | 
+Strongly Encapsulate JDK Internals             | 
+Context-Specific Deserialization Filters       | 
 
 ### Preview
 
-Feature                                        | #
------------------------------------------------|---------
-Pattern Matching for switch (Preview)          | JEP 406
+Feature                                        | Description
+-----------------------------------------------|-------------
+Pattern Matching for switch (Preview)          | 
 
 ### Incubator
 
-Feature                                        | #
------------------------------------------------|---------
-Foreign Function & Memory API (Incubator)      | JEP 412
-Vector API (Second Incubator)                  | JEP 414
+Feature                                        | Description
+-----------------------------------------------|-------------
+Foreign Function & Memory API (Incubator)      | 
+Vector API (Second Incubator)                  | 
 
 ### Deprecated
 
