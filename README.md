@@ -2,11 +2,11 @@
 
 Feature                                        | Description
 -----------------------------------------------|-------------
-[Sealed Classes](https://github.com/shamy1st/java-sealed-class)                                                   | 
+[Sealed Classes](https://github.com/shamy1st/java-sealed-class)                                                       | 
 Restore Always-Strict Floating-Point Semantics | 
-[Enhanced Pseudo-Random Number Generators](https://github.com/shamy1st/java-random-number-generator#java-17)      | 
-[Strongly Encapsulate JDK Internals](https://github.com/shamy1st/java-strongly-encapsulate-jdk-internals#java-17) | 
-Context-Specific Deserialization Filters       | 
+[Enhanced Pseudo-Random Number Generators](https://github.com/shamy1st/java-random-number-generator#java-17)          | 
+[Strongly Encapsulate JDK Internals](https://github.com/shamy1st/java-strongly-encapsulate-jdk-internals#java-17)     | 
+[Context-Specific Deserialization Filters](https://github.com/shamy1st/java-context-specific-deserialization-filters) | 
 
 ### Preview
 
