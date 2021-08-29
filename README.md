@@ -12,9 +12,9 @@ Context-Specific Deserialization Filters       |
 
 ### Preview
 
-Feature                                        | Description
------------------------------------------------|-------------
-Pattern Matching for switch (Preview)          | 
+Feature                              | Description
+-------------------------------------|-------------
+Pattern Matching for switch          | 
 
 ### Incubator
 
@@ -25,10 +25,10 @@ Vector API (Second Incubator)                  |
 
 ### Deprecated
 
-Feature                          | Description
----------------------------------|-------------
-Applet API for Removal           | 
-Security Manager for Removal     | 
+Feature             | Description
+--------------------|-------------
+Applet API          | 
+Security Manager    | 
 
 ### Removed
 
